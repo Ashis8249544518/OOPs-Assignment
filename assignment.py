@@ -33,6 +33,6 @@ c.get_details()
 c1.get_details()
 c2.get_details()
 
-# where 'x' and 'm' are the name of the manufacturer.
-# where 'y' and 'n' are the location of the manufacturer.
-# where 'p','q' and 'r' are the models of the car.
+# where 'x' and 'm' are the name of the first manufacturer.
+# where 'y' and 'n' are the location of the second manufacturer.
+# where 'p','q' and 'r' are the models of the cars.
